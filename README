@@ -1,4 +1,4 @@
-# Java TCP Chat Application
+##Java TCP Chat Application
 
 This is a simple client-server chat application built using Java TCP sockets and Swing GUI.
 
